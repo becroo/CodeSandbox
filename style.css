@@ -30,7 +30,7 @@ p {
   padding-right: 20px;
   padding-bottom: 15px;
   margin-left: -5px;
-  margin-top: 50px;
+
   background-color: rgb(247, 184, 11);
   border-bottom: 5px solid rgb(194, 147, 59);
 }
@@ -60,6 +60,6 @@ main {
 .card {
   background-color: white;
   border-bottom: 5px solid rgb(166, 167, 166);
+  padding-top: 0.5px;
+  margin-top: 45px;
 }
-
-/* Add styles here! */
